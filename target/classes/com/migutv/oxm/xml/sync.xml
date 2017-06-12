@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SyncFlowPkgLeftQuotaReq xmlns=" http://www.monternet.com/dsmp/schemas/">
+	<MsgType>SyncFlowPkgLeftQuotaReq</MsgType>
+	<Version>1.0.0</Version>
+	<OrderID>11130619144434998192</OrderID>
+	<UserPseudoCode>233333333</UserPseudoCode>
+	<ProductId></ProductId>
+	<Threshold>50</Threshold>
+	<ResultTime>20170530142354</ResultTime>
+	<sign>ABCDEFGHIKDFIEJFLAKDJFSIDF</sign>
+</SyncFlowPkgLeftQuotaReq>
